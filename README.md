@@ -6,4 +6,8 @@ To get started, clone the repository to your local machine.
 ### a simple code example
 You can run it as first experience
 ### a game example
-You can run it to see the potential of pytho 
+You can run it to see the potential of python
+```sh
+cd game 
+python3 ppt.py
+```
